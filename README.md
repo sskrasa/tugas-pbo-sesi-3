@@ -45,4 +45,3 @@ Program ini:
 java Main
 ```
 
-Setelah menjalankan program, ikuti prompt untuk input jumlah mahasiswa dan data masing-masing.
