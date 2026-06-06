@@ -42,11 +42,6 @@ Program ini:
 3. Menyimpan semua data ke dalam ArrayList.
 4. Menampilkan daftar lengkap mahasiswa dengan gradnya.
 5. Menampilkan statistik: total mahasiswa, yang lulus, yang tidak lulus.
-
-## Cara Mengkompilasi dan Menjalankan
-```bash
-cd /home/swift/PBO/tugas3
-bash build.sh
 java Main
 ```
 
